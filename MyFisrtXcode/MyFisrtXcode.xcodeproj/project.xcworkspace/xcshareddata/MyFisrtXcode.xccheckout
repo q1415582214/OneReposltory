@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BFA523D5-4BB5-43B2-9F03-3DCB82DD7A0E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2B41286C776D8D525A413E52DF4E38ED25FE64B5</key>
+		<string>https://github.com/q1415582214/OneReposltory.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyFisrtXcode/MyFisrtXcode.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2B41286C776D8D525A413E52DF4E38ED25FE64B5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/q1415582214/OneReposltory.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2B41286C776D8D525A413E52DF4E38ED25FE64B5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2B41286C776D8D525A413E52DF4E38ED25FE64B5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OneReposltory</string>
+		</dict>
+	</array>
+</dict>
+</plist>
